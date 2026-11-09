@@ -1,0 +1,4 @@
+Advertencias de la conversión (revisar las plantillas de origen o corregir grupos.csv a mano):
+- Propedéuticas 2025B: grupo LINC02 6 (BECERRIL VILCHIS FRANCISCO) EXCLUIDO por horario incompleto o raro en la plantilla
+- Propedéuticas 2025B: grupo LINC07 8 (ROJAS ALONSO LUIS) EXCLUIDO: sesión 11:00-18:00 el día 2 (revisar plantilla)
+- Propedéuticas 2025B: grupo LINC29 4 (LINARES HERNANDEZ IVONNE) EXCLUIDO: sesión 00:00-13:00 el día 2 (revisar plantilla)

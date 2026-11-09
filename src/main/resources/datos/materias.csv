@@ -1,0 +1,28 @@
+# clave,nombre,semestre,etiqueta (opcional: texto corto para el bloque del calendario)
+clave,nombre,semestre,etiqueta
+LINC02,Álgebra superior,1,
+LINC12,Geometría analítica,1,
+LINC03,Cálculo I,1,
+LINC15,Programación I,1,
+LINC11,Física,1,
+LINC10,Epistemología,2,
+LINC07,Ecuaciones diferenciales,2,Ec. diferenciales
+LINC01,Álgebra lineal,2,
+LINC35,Programación II,2,
+LINC29,Química,2,
+LINC04,Cálculo II,2,
+LMU209,Inglés 5,2,
+LINC06,Comunicación y relaciones humanas,3,Comunic. y rel. humanas
+LINC14,Probabilidad y estadística,3,Prob. y estadística
+LINC13,Matemáticas discretas,3,
+LINC32,Paradigmas de programación I,3,Paradigmas prog. I
+LINC20,Bases de datos I,3,
+LINC05,Cálculo III,3,
+LMU306,Inglés 6,3,
+LINC18,Arquitectura de computadoras,4,Arq. de computadoras
+LINC30,Métodos estadísticos,4,
+LINC31,Métodos numéricos,4,
+LINC33,Paradigmas de programación II,4,Paradigmas prog. II
+LINC21,Bases de datos II,4,
+LINC09,Electromagnetismo,4,
+LMU404,Inglés 7,4,

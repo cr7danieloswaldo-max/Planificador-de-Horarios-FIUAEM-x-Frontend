@@ -1,0 +1,7 @@
+target/
+*.war
+nb-configuration.xml
+.idea/
+*.iml
+.vscode/
+.DS_Store
