@@ -17,12 +17,12 @@
             </div>
           </c:when>
           <c:otherwise>
-            <div class="row">
-              <input type="checkbox" name="sel" value="${fn:escapeXml(m.clave)}" class="sel"
-                     ${estado.seleccionadas.contains(m.clave) ? 'checked' : ''}>
-              <span style="flex:1"><c:out value="${m.nombre}"/></span>
-            </div>
-          </c:otherwise>
+  <label class="row" ">
+    <input type="checkbox" name="sel" value="${fn:escapeXml(m.clave)}" class="sel"
+           ${estado.seleccionadas.contains(m.clave) ? 'checked' : ''}>
+    <span style="flex:1"><c:out value="${m.nombre}"/></span>
+  </label>
+</c:otherwise>
         </c:choose>
       </c:forEach>
       <p><b><span id="cuenta">${estado.seleccionadas.size()}</span> materias seleccionadas</b></p>
